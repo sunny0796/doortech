@@ -1,3 +1,3 @@
 
 # Doortech
-[click here to check it out!](https://github.com/sunny0796/doortech/blob/master/Home.html)
+[click here to check it out!](https://sunny0796.github.io/doortech/Home.html)
